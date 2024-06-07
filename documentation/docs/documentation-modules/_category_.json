@@ -1,0 +1,8 @@
+{
+  "label": "Firebase modules",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "All available modules with their coverage"
+  }
+}
